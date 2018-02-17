@@ -1,0 +1,1 @@
+cmd_/home/mydrv/4th/key_poll.ko := arm-linux-ld -EL -r  -T /home/mini2440/linux-2.6.32/scripts/module-common.lds --build-id -o /home/mydrv/4th/key_poll.ko /home/mydrv/4th/key_poll.o /home/mydrv/4th/key_poll.mod.o

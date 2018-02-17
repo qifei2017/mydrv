@@ -1,0 +1,1 @@
+cmd_/home/mydrv/3th/key_EINT.ko := arm-linux-ld -EL -r  -T /home/mini2440/linux-2.6.32/scripts/module-common.lds --build-id -o /home/mydrv/3th/key_EINT.ko /home/mydrv/3th/key_EINT.o /home/mydrv/3th/key_EINT.mod.o

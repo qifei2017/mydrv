@@ -1,0 +1,2 @@
+kernel//home/mydrv/i2c/at24xx_dev.ko
+kernel//home/mydrv/i2c/at24xx_drv.ko

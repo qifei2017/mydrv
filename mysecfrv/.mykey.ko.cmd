@@ -1,0 +1,1 @@
+cmd_/home/mydrv/mysecfrv/mykey.ko := arm-linux-ld -EL -r  -T /home/mini2440/linux-2.6.32/scripts/module-common.lds --build-id -o /home/mydrv/mysecfrv/mykey.ko /home/mydrv/mysecfrv/mykey.o /home/mydrv/mysecfrv/mykey.mod.o
